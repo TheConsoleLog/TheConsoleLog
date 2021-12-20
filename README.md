@@ -1,3 +1,3 @@
 ### TheConsoleLog 👋
 
-https://github-readme-stats.vercel.app/api?username=TheConsoleLog
+![Stats](https://github-readme-stats.vercel.app/api?username=TheConsoleLog)
