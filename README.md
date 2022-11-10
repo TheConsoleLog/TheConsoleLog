@@ -1,5 +1,15 @@
 # Hello, World! 👋
-* 👂 My name is Paul
+
+* Paul
+* 17 y
+* AT
+
+languages = [
+  "Java",
+  "SQL",
+  "JS",
+  "C#"
+];
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheConsoleLog&count_private=true&theme=synthwave&show_icons=true)
 <!--
