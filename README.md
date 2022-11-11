@@ -1,15 +1,25 @@
 # Hello, World! 👋
 
 * Paul
-* 17 y
+* 17y
 * AT
+* HTL
 
-languages = [
-  "Java",
-  "SQL",
-  "JS",
-  "C#"
-];
+```javascript
+let skill = {
+	languages: [
+		"JS",
+		"Java",
+		"MySQL",
+		"C#"
+	],
+	learning: [
+		"NodeJS",
+		"PHP",
+		"ReactJS"
+	]
+};
+```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheConsoleLog&count_private=true&theme=synthwave&show_icons=true)
 <!--
