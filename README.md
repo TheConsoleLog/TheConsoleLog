@@ -10,7 +10,7 @@ let skill = {
 	languages: [
 		"JS",
 		"Java",
-		"MySQL",
+		"SQL",
 		"C#"
 	],
 	learning: [
