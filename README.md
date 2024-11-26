@@ -20,5 +20,6 @@ technical college for information technology<br>austria<br>17
 
 <p>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theconsolelog&" alt="theconsolelog" />
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheConsoleLog&layout=compact)
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheConsoleLog&layout=compact)
 </p>
